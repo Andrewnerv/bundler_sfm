@@ -36,3 +36,17 @@ list_keys.txt
 list_tmp.txt
 options.txt
 sift.txt
+*.log
+*.tlog
+*.obj
+*.pdb
+*.ipch
+*.db
+*.db-shm
+*.db-wal
+*.lib
+*.user
+*.exp
+*.ipdb
+*.iobj
+*.htm
